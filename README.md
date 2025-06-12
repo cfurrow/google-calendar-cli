@@ -18,7 +18,7 @@ This documentation repository exists solely to meet Google's requirements for ap
 
 ## What This Repository Contains
 
-- Documentation files (README.md, PRIVACY.md)
+- Documentation files (README.md, PRIVACY.md, TERMS.md)
 - No executable code
 - No installation instructions
 - No dependencies
@@ -48,6 +48,10 @@ All calendar data processing occurs locally on the user's machine. No data is st
 ## Privacy and Security
 
 For detailed information about data handling, privacy practices, and security measures, please refer to the [Privacy Policy](PRIVACY.md).
+
+## Terms of Service
+
+For information about the terms governing this repository and any future applications, please refer to the [Terms of Service](TERMS.md).
 
 ## Contact
 
