@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Effective Date:** December 6, 2024  
-**Last Updated:** December 6, 2024
+**Effective Date:** June 12, 2025
+**Last Updated:** June 12, 2025
 
 ## Introduction
 
